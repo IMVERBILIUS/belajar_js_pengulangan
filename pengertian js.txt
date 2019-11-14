@@ -1,0 +1,8 @@
+cont = tidak bisa di ubah
+let = untuk di ubah
+for = perulangan
+
+= itu gk bisa
+== itu interjer sama string jadi sama
+=== semua harus sama gk ada yang beda
+
